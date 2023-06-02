@@ -1,0 +1,500 @@
+   28  clear
+   29  git init
+   30  git config user.name
+   31  git config user.email
+   32  ls -a
+   33  clear
+   34  git add styles.css 
+   35  git status
+   36  git log
+   37  git init
+   38  git config user.name
+   39  git remote add origin https://github.com/ReTagus/DigtalHouse.git
+   40  git remote -v
+   41  git push origin master
+   42  git ls
+   43  ls
+   44  git add..
+   45  git add.
+   46  git add styles.css 
+   47  git status
+   48  git add index.html 
+   49  git add img/
+   50  git status
+   51  Git commit -m "Subiendo primeros archivos"
+   52  git push origin master
+   53  Git push orirgin master
+   54  Git push origin master
+   55  git status
+   56  git log
+   57  git push origin master
+   58  gitststus
+   59  git status
+   60  git push origin main
+   61  git clonee https://github.com/ReTagus/DigtalHouse.git
+   62  git status
+   63  git push origin main
+   64  git status
+   65  git clone https://github.com/Erikatovar/mochila_camada7.git
+   66  cd mochila_camada7/
+   67  cd Entrega1
+   68  pwd
+   69  ls
+   70  ls -a
+   71  ls --help
+   72  clear
+   73  l
+   74  pwd
+   75  cd desktop
+   76  pwd
+   77  ls
+   78  cd ..
+   79  cd /c/Users/ReTagus/Desktop/
+   80  l
+   81  s
+   82  cd CarpetaCamada/
+   83  ls 
+   84  touch hola hola.txt hola.js hola.html
+   85  ls
+   86  touch holaMundo
+   87  ls
+   88  clear
+   89  pwd
+   90  ls -a
+   91  clear
+   92  cd CarpetaCamada/
+   93  ls 
+   94  ls -l
+   95  ls -r
+   96  more hola.txt 
+   97  pwd
+   98  more CarpetaCamada
+   99  mkdir camada1
+  100  cd camada1/
+  101  touch hoalMundo.txt
+  102  ls
+  103  rmdir
+  104  rmdir camada1
+  105  rm -r camada1
+  106  cd ..
+  107  rm -r camada1/
+  108  ls
+  109  mkdir camada
+  110  ls
+  111  rmdir camada/
+  112  ls
+  113  gedit lectura
+  114  gedit lectura.txt
+  115  touch lectura.txt
+  116  ls
+  117  mkdir camada
+  118  cp lectura camada/
+  119  cp lectura.txt camada/
+  120  cd camada/
+  121  ls
+  122  cd Digital\ House\ C7/
+  123  cd Introducion\ a\ la\ Informatica\ 1/
+  124  ls
+  125  cd CarpetaCamada/
+  126  ls
+  127  find lectura.txt 
+  128  git --version
+  129  git
+  130  cd ..
+  131  cd ..
+  132  cd ..
+  133  ls
+  134  cd RepoLocalGit/
+  135  ls
+  136  ls -a
+  137  git init
+  138  ls -a
+  139  git branch -m "master"
+  140  git branch -m "main"
+  141  cd .git
+  142  cd ..
+  143  ls
+  144  touch archivo1.txt archivo2.txt
+  145  ls
+  146  ls
+  147  ls -a
+  148  ls -l
+  149  ls -R
+  150  pwd
+  151  more desktop
+  152  mkdir ejmpExam
+  153  cd ejmpExam/
+  154  touch archivo.txt
+  155  ls
+  156  clear
+  157  rm archivo.txt 
+  158  ls
+  159  rmdir
+  160  cd ..
+  161  rmdir ejmpExam/
+  162  ls
+  163  mkdir carpetaEjemplo
+  164  cd carpetaEjemplo/
+  165  cd ..
+  166  rm -r EjemploGit/
+  167  ls
+  168  rmdir EjemploGit/
+  169  ls
+  170  clear
+  171  mkdir informes
+  172  cd informes/
+  173  touch informeAnual.xls
+  174  ls
+  175  mkdir auditoria
+  176  cd auditoria/
+  177  touch auditoria.xls
+  178  touch reporteConsolidado.xls
+  179  ls
+  180  mv auditoria.xls informes
+  181  cd ..
+  182  ls
+  183  git -version
+  184  git --version
+  185  clear
+  186  git config user.name
+  187  mkdir Git
+  188  cd ..
+  189  mkdir Git
+  190  cd git
+  191  clear
+  192  git init
+  193  git config user.name
+  194  gitconfiguser.email
+  195  git config user.email
+  196  ls
+  197  ls -a
+  198  clear
+  199  cd ..
+  200  mkdir RepoLocal
+  201  cd RepoLocal
+  202  git init
+  203  git status
+  204  git status
+  205  git log
+  206  cd ..
+  207  cd Git/
+  208  git log
+  209  cd ..
+  210  cd RepoLocal
+  211  git remote add orign https://github.com/ReTagus/Pruebas.git
+  212  git remote -v
+  213  git branch -m cesarLondoño
+  214  git clone https://github.com/ReTagus/DigtalHouse.git
+  215  ls
+  216  ls -a
+  217  cd DigtalHouse/
+  218  ls
+  219  cd ..
+  220  cd ..
+  221  cd RepoLocal
+  222  touch app.js
+  223  git status
+  224  git add app.js 
+  225  git status
+  226  git commit -m "mi primer commit"
+  227  git status
+  228  git push origin cesarLondoño 
+  229  git status
+  230  cd ..
+  231  cd RepoLocal
+  232  git branch -m main
+  233  git clone [200~ReTagus@ReTagus MINGW64 ~/Desktop/RepoLocal (cesarLondoño)
+  234  $ git status
+  235  On branch cesarLondoño
+  236  Untracked files:
+  237    (use "git add <file>..." to include in what will be committed)
+  238          DigtalHouse/
+  239  nothing added to commit but untracked files present (use "git add" to track)
+  240  clear
+  241  git clone https://github.com/ReTagus/DigtalHouse.git
+  242  git clone https://github.com/ReTagus/pruebaCamada7.git
+  243  cd pruebaCamada7/
+  244  touch app.js
+  245  git status
+  246  git add app.js 
+  247  git status
+  248  git commit -m "mi primer commit"
+  249  git status
+  250  git push origin main
+  251  git status
+  252  git branch
+  253  cd ..
+  254  cd ..
+  255  git branch
+  256  cd RepoLocal
+  257  git branch
+  258  nano--help
+  259  nano --help
+  260  clear
+  261  cd Entrega\ 1/
+  262  ls 
+  263  cd mochila_camada7/
+  264  ls
+  265  cd Entrega1
+  266  ls
+  267  git nano texto.txt
+  268  nano texto.txt 
+  269  mkdir marvel
+  270  ls
+  271  cd marvel/
+  272  mkdir Ironman Spiderman "Capitan America" Thor Wanda
+  273  ls
+  274  cd Ironman/
+  275  touch "Toni Stark"
+  276  ls
+  277  cd ..
+  278  cd Spiderman/
+  279  "Peter Parker"
+  280  touch "Peter Parker"
+  281  ls
+  282  cd ..
+  283  cd Wanda/
+  284  touch Maximoff.txt
+  285  ls
+  286  cd ..
+  287  ls --hellp
+  288  ls -help
+  289  ls --help
+  290  ls -Ra
+  291  rm -r Thor
+  292  ls
+  293  mv Wanda/ "Bruja Escarlata"
+  294  ls
+  295  git init
+  296  git add
+  297  git status
+  298  git commit -m "Comitiando los archivos"
+  299  git push origin main
+  300  git add .
+  301  git commit -m "Comitiando los archivos"
+  302  git push origin main
+  303  git remote add origin [200~https://github.com/ReTagus/RepoExamen.git~
+  304  git remote -v
+  305  git add .
+  306  git status
+  307  git commit -m "Comitiando los archivos"
+  308  git push origin main
+  309  git status
+  310  git remote add origin https://github.com/ReTagus/RepoExamen.git
+  311  git remote add origin https://github.com/ReTagus/RepExam.git
+  312  git remove remote add origin
+  313  git remote remove origin
+  314  git remote -v
+  315  git remote add origin https://github.com/ReTagus/RepoExamen.git
+  316  git remote -v
+  317  git push origin main
+  318  clear
+  319  ls 
+  320  cd desktop
+  321  ls
+  322  cd git
+  323  --
+  324  cd--
+  325  cd --
+  326  cd desktop
+  327  pwd
+  328  cd Pruebas\ Git\ Intro/
+  329  mkdir Clase 2
+  330  cd Clase/
+  331  mkdir clase2
+  332  cd clase2/
+  333  touch primerosPasos.txt
+  334  ls
+  335  touch otroArchivo.xls
+  336  touch archivoA.txt archivoB.txt archivoC.txt
+  337  ls
+  338  mkdir carpeta1 carpeta2
+  339  ls
+  340  cd carpeta1
+  341  touch readme.txt
+  342  cd ..
+  343  rmdir carpeta2
+  344  ls
+  345  rm -r carpeta1/
+  346  ls
+  347  ls --help
+  348  cd..
+  349  cd
+  350  cd..
+  351  cd..
+  352  clear
+  353  cd ..
+  354  cd desktoch
+  355  ls
+  356  cd desckto
+  357  cd descktop
+  358  clear
+  359  cd ..
+  360  cd desktop
+  361  mkdir DH
+  362  cd DH
+  363  mkdir repaso_clase1y2
+  364  cd repaso_clase1y2/
+  365  cd desktop
+  366  mkdir informes 
+  367  cd informes/
+  368  touch informeAnual.xls
+  369  ls
+  370  clear
+  371  mkdir auditoria
+  372  touch auditoria.xls
+  373  touch reporteConsolidado.xls
+  374  ls
+  375  ls
+  376  mv auditoria.xls auditoria
+  377  ls
+  378  cd auditoria
+  379  ls
+  380  git --version
+  381  git
+  382  git onfig user
+  383  git onfig user .name
+  384  cd desktop
+  385  cd Git
+  386  ls
+  387  ls -a
+  388  git config user .name
+  389  git config user.name
+  390  git config user.email
+  391  git init
+  392  cd ..
+  393  cd Pruebas\ Git\ Intro/
+  394  git init
+  395  git status
+  396  cd ..
+  397  mkdir PruebaGit
+  398  cd PruebaGit/
+  399  git init
+  400  touch app.js
+  401  git status
+  402  git add.
+  403  git status
+  404  git add app.js 
+  405  git status
+  406  cd ..
+  407  mkdir mercadoAbierto
+  408  cd mercadoAbierto/
+  409  git init
+  410  touch productos.js
+  411  git status
+  412  git add productos.js 
+  413  git status
+  414  git commit -m "mi primer commit"
+  415  git status
+  416  cd ..
+  417  cd Prueba
+  418  cd PruebaGit/
+  419  git status
+  420  git config user.name
+  421  git config user.email
+  422  git remote add origin https://github.com/ReTagus/Pruebas.git
+  423  git remote -v
+  424  git status
+  425  git cimmit -m "Primer commit"
+  426  git commit -m "Primer commit en caroeta prueba"
+  427  git status
+  428  git log
+  429  git push origin main 
+  430  ls
+  431  git clone https://github.com/ReTagus/pruebaClonado.git
+  432  git status
+  433  git add app.js 
+  434  git status
+  435  cd ..
+  436  mkdir descGit
+  437  cd descGit/
+  438  git clone ReTagus@ReTagus MINGW64 ~/desktop/PruebaGit (main)
+  439  $ git clone https://github.com/ReTagus/pruebaClonado.git
+  440  git clone https://github.com/ReTagus/pruebaClonado.git
+  441  cd ..
+  442  mkdir Ecomerce
+  443  cd Ecomerce/
+  444  touch app.js config.js
+  445  cd ..
+  446  cd Ecomerce/
+  447  git remote -v
+  448  clear
+  449  cd..
+  450  cd ..
+  451  mkdir pruebaClonado
+  452  cd pruebaClonado/
+  453  git clone https://github.com/veronicajujuy/clase5-c3.git
+  454  ls
+  455  cd clase5-c3/
+  456  ls -r
+  457  touch prueba.js elementos.xls
+  458  git add .
+  459  git commit -m "primer commit"
+  460  git push origin main 
+  461  cd ..
+  462  cd ..
+  463  mkdir dh-if-c5
+  464  cd dh-if-c5/
+  465  git clone https://github.com/Ftnt/learnGit.git
+  466  ls
+  467  cd learnGit/
+  468  ls
+  469  touch archivo1.js archivo2.txt archivo3.xls
+  470  git add .
+  471  git commit -m "Commit de Cesar"
+  472  git push origin main
+  473  clear
+  474  cd ..
+  475  cd ..
+  476  cd pruebaClonado/
+  477  git clone https://github.com/ReTagus/Pruebas.git
+  478  ls 
+  479  cd Pruebas/
+  480  touch app.js
+  481  git status
+  482  git add app.js 
+  483  git status
+  484  git commit -m "mi primer comit"
+  485  git status
+  486  git push origin main
+  487  git status
+  488  cd ..
+  489  cd 
+  490  cd ..
+  491  cd desktop.ini 
+  492  ls
+  493  cd desktop
+  494  cd ..
+  495  ping google.com
+  496  ping google.com -f -l 1492
+  497  ping google.com -f -l 1482
+  498  ping google.com -f -l 1472
+  499  netsh interface ipv4 show subinterfaces
+  500  ipconfig
+  501  mkdir Examen_Londoño_Cesar
+  502  cd Examen_Londoño_Cesar/
+  503  mkdir Hobbies "Comidas Preferidas" "Programas de Tv" "Comandos Utilizados"
+  504  cd Hobbies/
+  505  touch 1.txt 2.txt 3.txt
+  506  cp * ../Comandos\ Utilizados/
+  507  cd ..
+  508  mv Comandos\ Utilizados/* Comidas\ Preferidas/
+  509  cp Hobbies/1.txt Hobbies/2.txt Hobbies/3.txt
+  510  cp Hobbies/1.txt Hobbies/2.txt Hobbies/3.txt Programas\ de\ Tv/
+  511  touch Comandos\ Utilizados/command.txt
+  512  git init
+ 
+  514  git remote add origin https://github.com/ReTagus/Practica_Examen_Intro_3105.git
+  515  git remote -v
+  516  git add .
+  517  git status
+  518  git commit -m "Comit 1 de Examne Cesar"
+  519  git log
+  520  git status
+  521  git push origin main 
+  522  git branch hotfix
+  523  git branch
+  524  git checkout hotfix
+  525  git branch
+  526  history
+  527  history > Comandos\ Utilizados/command.txt 
